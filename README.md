@@ -68,3 +68,10 @@ This project demonstrates how Python, SQL, and Power BI can be used together to 
 
 **Note:** Findings represent associations in the dataset and do not establish direct causes of attrition.
 
+## Dashboard Preview
+
+### Page 1 – HR Workforce Overview
+![HR Workforce Overview](HR_Workforce_Overview.png)
+
+### Page 2 – Attrition Deep Analysis
+![Attrition Deep Analysis](Attrition_Deep_Analysis.png)
